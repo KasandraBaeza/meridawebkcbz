@@ -1,0 +1,21 @@
+body {
+
+  background-color: lightblue
+}
+
+h1 {
+  font-family: 'Trebuchet MS';
+  color: maroon
+  
+}
+
+p {
+  font-weight: bold;
+  border: solid 2px blueviolet
+}
+
+#banner {
+  width: 200px;
+  border: solid 4px lightgoldenrodyellow
+  
+}
